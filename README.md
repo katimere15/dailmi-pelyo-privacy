@@ -1,10 +1,10 @@
-# 머니노트 개인정보처리방침
+# Pelyo 개인정보처리방침
 
-머니노트 공개 개인정보 안내 페이지. GitHub Pages에서 main 브랜치의 루트 index.html을 사용한다.
+Pelyo 공개 개인정보 안내 페이지. 저장소는 https://github.com/katimere15/dailmi-pelyo-privacy 이며 GitHub Pages에서 main 브랜치의 루트 index.html을 사용한다.
 
-현재 문서는 개발 중인 버전의 현황과 출시 예정 처리를 구분한다. SDK·백업·삭제 동작 검증, 문의 보존 기간, 국외 처리 세부사항, 시행일을 확정하기 전에는 출시 심사용 최종본으로 취급하지 않는다.
+현재 문서는 Pelyo `com.dailmi.pelyo`의 Local-first 금융 기록, 암호화 백업·CSV, 제한적 AdMob 광고, UMP 동의, 선택형 Crashlytics, 로컬 알림·위젯과 삭제 동작을 설명한다. 영문 본문과 한국어 안내를 함께 제공한다.
 
 문의: chyou960118@gmail.com
 
-개발 검증 업데이트: Google Mobile Ads SDK가 포함되었으며 별도 Debug 테스트 화면에서만 공식 테스트 광고 요청을 수행한다. 일반 앱 시작에서는 광고 초기화를 호출하지 않는다.
+정책 본문과 실제 앱의 데이터·광고 처리가 일치하는지 출시 전에 다시 검증한다.
 
